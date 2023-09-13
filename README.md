@@ -1,32 +1,67 @@
-<h1 align="center">Hi 👋, I'm Azhar</h1>
-<h3 align="center">A passionate Devops engineer from India</h3>
+<!-- Header Section -->
+<h1 align="center"><font face="Arial">Hi 👋, I'm Azhar
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/mohd-azharism/" target="_blank" rel="noreferrer">Azhar</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azharism&label=Profile%20views&color=0e75b6&style=flat" alt="azharism" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharism" alt="azharism" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-- 🌱 I’m currently learning **python**
+<!-- Languages and Tools Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
-- 👯 I’m looking to collaborate on **cloud native projects**
-
-- 🤝 I’m looking for help with **Devops**
-
-- 💬 Ask me about **Devops**
-
-- 📫 How to reach me **azharism73@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Cloud Section -->
+<h4><font size="+1" face="Tahoma">Cloud:</font></h4>
 <p align="left">
-<a href="https://linkedin.com/in/mohd-azharism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-azharism" height="30" width="40" /></a>
+<a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
+<img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
+</a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
+</a>
+<a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
+<img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="80" height="80"/>
+</a>
+<!-- Add more cloud-related tools here -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<!-- Scripting Section -->
+<h4><font size="+1" face="Tahoma">Scripting:</font></h4>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+<img src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png" alt="bash" width="100" height="100"/>
+</a>
+<a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
+<img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="100" height="100"/>
+</a>
+<a href="[https://golang.org](https://golang.org/)" target="_blank" rel="noreferrer">
+<img src="https://perisync.com/images/gocc.gif" alt="golang" width="170" height="100"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azharism&show_icons=true&locale=en&layout=compact" alt="azharism" /></p>
+<!-- Technologies Section -->
+<h4><font size="+1" face="Tahoma">Technologies:</font></h4>
+<p align="left">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azharism&show_icons=true&locale=en" alt="azharism" /></p>
+<!-- Stats and GitHub activity -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n4si&label=Profile views&color=0e75b6&style=flat" alt="n4si" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azharism&" alt="azharism" /></p>
+- I work on DevOps, Microservices, containers, and everything around it.
+- 👯 I’m looking to collaborate on **Cloud-native Projects**
+
+<!-- Contact Section -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<p align="left">
+</p>
+
+- 💬 Ask me about **DevOps**
+- 📫 How to reach me **[azharism73@gmail.com](mailto:azharism73@gmail.com)**
